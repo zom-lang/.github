@@ -1,5 +1,5 @@
 ## ⚡ Zom Language
-Zom is a Ahead Of Time compiled programming language written in Rust, the code generation and compilation is made with LLVM. 
+Zom is a Ahead Of Time compiled programming language, the code generation and compilation is made with LLVM. 
 
 - **Ahead of Time** compiled programmaing language, that mean you will have great performance, because the transformation of the source code to assembly is done before. Contrary to Just In Time compilation who's occur at the same time as the execution.
 - **Statically typed**, Zom solves types at compile time, and not at run time.
